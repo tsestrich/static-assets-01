@@ -1,0 +1,23 @@
+{
+  "algorithm": "Ed25519",
+  "manifest": {
+    "bytes": 460338,
+    "createdAt": "2026-09-21T14:06:29Z",
+    "file": "models/2026.09.21-0.zip",
+    "gate": {
+      "epochs": 30,
+      "inputHeight": 544,
+      "inputWidth": 960,
+      "params": 247922,
+      "seed": 7
+    },
+    "minimumBuild": 1,
+    "notes": "params 247922, fp16, in 3x544x960, out 2x136x240, seed 7",
+    "schema": 1,
+    "sha256": "ecc93075226bbc702a5dd47b3065fee1f78795ffea32df7126f7f0582de01140",
+    "version": "2026.09.21-0"
+  },
+  "publicKey": "JhcEhXz76T1KY8oX2HvNsjTSLJCEFsLDWLEJAtQUVfQ=",
+  "signature": "CJgEAjR78/sF5mbUipHcNV1Nmd6jkyklqLmt1ZjTaCxoaQ6zV3dreP84E/Ru8OPzksx1gaVo5QKmqpO7dIXeDw==",
+  "signed": "eyJieXRlcyI6NDYwMzM4LCJjcmVhdGVkQXQiOiIyMDI2LTA5LTIxVDE0OjA2OjI5WiIsImZpbGUiOiJtb2RlbHMvMjAyNi4wOS4yMS0wLnppcCIsImdhdGUiOnsiZXBvY2hzIjozMCwiaW5wdXRIZWlnaHQiOjU0NCwiaW5wdXRXaWR0aCI6OTYwLCJwYXJhbXMiOjI0NzkyMiwic2VlZCI6N30sIm1pbmltdW1CdWlsZCI6MSwibm90ZXMiOiJwYXJhbXMgMjQ3OTIyLCBmcDE2LCBpbiAzeDU0NHg5NjAsIG91dCAyeDEzNngyNDAsIHNlZWQgNyIsInNjaGVtYSI6MSwic2hhMjU2IjoiZWNjOTMwNzUyMjZiYmM3MDJhNWRkNDdiMzA2NWZlZTFmNzg3OTVmZmVhMzJkZjcxMjZmN2YwNTgyZGUwMTE0MCIsInZlcnNpb24iOiIyMDI2LjA5LjIxLTAifQ=="
+}

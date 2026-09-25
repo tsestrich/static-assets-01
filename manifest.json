@@ -1,23 +1,26 @@
 {
   "algorithm": "Ed25519",
   "manifest": {
-    "bytes": 460338,
-    "createdAt": "2026-09-21T14:06:29Z",
-    "file": "models/2026.09.21-0.zip",
+    "bytes": 460918,
+    "createdAt": "2026-09-25T11:02:26Z",
+    "file": "models/2026.09.25-0.zip",
     "gate": {
-      "epochs": 30,
-      "inputHeight": 544,
-      "inputWidth": 960,
+      "d0MeanPct": 3.6,
+      "falseHolds": 0,
+      "folds": 6,
+      "foldsNoWorse": 3,
+      "held": 11,
       "params": 247922,
-      "seed": 7
+      "seed": 7,
+      "speeds": 11
     },
     "minimumBuild": 1,
-    "notes": "params 247922, fp16, in 3x544x960, out 2x136x240, seed 7",
+    "notes": "d0 3.6 pct, held 11 of 11, speeds 11 of 11, false 0, folds 3 of 6, seed 7, 247922 params, fp16, in 3x544x960, out 2x136x240",
     "schema": 1,
-    "sha256": "ecc93075226bbc702a5dd47b3065fee1f78795ffea32df7126f7f0582de01140",
-    "version": "2026.09.21-0"
+    "sha256": "7f71efe98551180bbadf1682e256de844e4643c47e488a906614526f94cca433",
+    "version": "2026.09.25-0"
   },
   "publicKey": "JhcEhXz76T1KY8oX2HvNsjTSLJCEFsLDWLEJAtQUVfQ=",
-  "signature": "CJgEAjR78/sF5mbUipHcNV1Nmd6jkyklqLmt1ZjTaCxoaQ6zV3dreP84E/Ru8OPzksx1gaVo5QKmqpO7dIXeDw==",
-  "signed": "eyJieXRlcyI6NDYwMzM4LCJjcmVhdGVkQXQiOiIyMDI2LTA5LTIxVDE0OjA2OjI5WiIsImZpbGUiOiJtb2RlbHMvMjAyNi4wOS4yMS0wLnppcCIsImdhdGUiOnsiZXBvY2hzIjozMCwiaW5wdXRIZWlnaHQiOjU0NCwiaW5wdXRXaWR0aCI6OTYwLCJwYXJhbXMiOjI0NzkyMiwic2VlZCI6N30sIm1pbmltdW1CdWlsZCI6MSwibm90ZXMiOiJwYXJhbXMgMjQ3OTIyLCBmcDE2LCBpbiAzeDU0NHg5NjAsIG91dCAyeDEzNngyNDAsIHNlZWQgNyIsInNjaGVtYSI6MSwic2hhMjU2IjoiZWNjOTMwNzUyMjZiYmM3MDJhNWRkNDdiMzA2NWZlZTFmNzg3OTVmZmVhMzJkZjcxMjZmN2YwNTgyZGUwMTE0MCIsInZlcnNpb24iOiIyMDI2LjA5LjIxLTAifQ=="
+  "signature": "Cd/hHAhvbswVa2W/mDYRIfbMbfiy+jedeqfvTNt+eNbR/usX7wNQbWjaZGnSWv/EuhRnOylyMCayrbSwN9NjBA==",
+  "signed": "eyJieXRlcyI6NDYwOTE4LCJjcmVhdGVkQXQiOiIyMDI2LTA5LTI1VDExOjAyOjI2WiIsImZpbGUiOiJtb2RlbHMvMjAyNi4wOS4yNS0wLnppcCIsImdhdGUiOnsiZDBNZWFuUGN0IjozLjYsImZhbHNlSG9sZHMiOjAsImZvbGRzIjo2LCJmb2xkc05vV29yc2UiOjMsImhlbGQiOjExLCJwYXJhbXMiOjI0NzkyMiwic2VlZCI6Nywic3BlZWRzIjoxMX0sIm1pbmltdW1CdWlsZCI6MSwibm90ZXMiOiJkMCAzLjYgcGN0LCBoZWxkIDExIG9mIDExLCBzcGVlZHMgMTEgb2YgMTEsIGZhbHNlIDAsIGZvbGRzIDMgb2YgNiwgc2VlZCA3LCAyNDc5MjIgcGFyYW1zLCBmcDE2LCBpbiAzeDU0NHg5NjAsIG91dCAyeDEzNngyNDAiLCJzY2hlbWEiOjEsInNoYTI1NiI6IjdmNzFlZmU5ODU1MTE4MGJiYWRmMTY4MmUyNTZkZTg0NGU0NjQzYzQ3ZTQ4OGE5MDY2MTQ1MjZmOTRjY2E0MzMiLCJ2ZXJzaW9uIjoiMjAyNi4wOS4yNS0wIn0="
 }

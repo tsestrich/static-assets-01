@@ -1,26 +1,17 @@
 {
   "algorithm": "Ed25519",
   "manifest": {
-    "bytes": 460918,
-    "createdAt": "2026-09-25T11:02:26Z",
-    "file": "models/2026.09.25-0.zip",
-    "gate": {
-      "d0MeanPct": 3.6,
-      "falseHolds": 0,
-      "folds": 6,
-      "foldsNoWorse": 3,
-      "held": 11,
-      "params": 247922,
-      "seed": 7,
-      "speeds": 11
-    },
+    "bytes": 460127,
+    "createdAt": "2026-09-26T20:46:04Z",
+    "file": "models/2026.09.26-0.zip",
+    "gate": {},
     "minimumBuild": 1,
-    "notes": "d0 3.6 pct, held 11 of 11, speeds 11 of 11, false 0, folds 3 of 6, seed 7, 247922 params, fp16, in 3x544x960, out 2x136x240",
+    "notes": "d0 3.1 pct, held 11 of 11, speeds 11 of 11, false 0, pooled folds 5 of 6, seed 11, 247922 params",
     "schema": 1,
-    "sha256": "7f71efe98551180bbadf1682e256de844e4643c47e488a906614526f94cca433",
-    "version": "2026.09.25-0"
+    "sha256": "dd1413464775af3181d7651d03dd45c71a9ecb6dc4596ecf1b962ed54f3fa6bf",
+    "version": "2026.09.26-0"
   },
   "publicKey": "JhcEhXz76T1KY8oX2HvNsjTSLJCEFsLDWLEJAtQUVfQ=",
-  "signature": "Cd/hHAhvbswVa2W/mDYRIfbMbfiy+jedeqfvTNt+eNbR/usX7wNQbWjaZGnSWv/EuhRnOylyMCayrbSwN9NjBA==",
-  "signed": "eyJieXRlcyI6NDYwOTE4LCJjcmVhdGVkQXQiOiIyMDI2LTA5LTI1VDExOjAyOjI2WiIsImZpbGUiOiJtb2RlbHMvMjAyNi4wOS4yNS0wLnppcCIsImdhdGUiOnsiZDBNZWFuUGN0IjozLjYsImZhbHNlSG9sZHMiOjAsImZvbGRzIjo2LCJmb2xkc05vV29yc2UiOjMsImhlbGQiOjExLCJwYXJhbXMiOjI0NzkyMiwic2VlZCI6Nywic3BlZWRzIjoxMX0sIm1pbmltdW1CdWlsZCI6MSwibm90ZXMiOiJkMCAzLjYgcGN0LCBoZWxkIDExIG9mIDExLCBzcGVlZHMgMTEgb2YgMTEsIGZhbHNlIDAsIGZvbGRzIDMgb2YgNiwgc2VlZCA3LCAyNDc5MjIgcGFyYW1zLCBmcDE2LCBpbiAzeDU0NHg5NjAsIG91dCAyeDEzNngyNDAiLCJzY2hlbWEiOjEsInNoYTI1NiI6IjdmNzFlZmU5ODU1MTE4MGJiYWRmMTY4MmUyNTZkZTg0NGU0NjQzYzQ3ZTQ4OGE5MDY2MTQ1MjZmOTRjY2E0MzMiLCJ2ZXJzaW9uIjoiMjAyNi4wOS4yNS0wIn0="
+  "signature": "YB5XfJRTcTsPc8NwdUecCRFUzIYota8l2Q/WED/8riAagln3tHlfwG3AW4u+rXHrFeOswVNvgm00HnFKsnTtAw==",
+  "signed": "eyJieXRlcyI6NDYwMTI3LCJjcmVhdGVkQXQiOiIyMDI2LTA5LTI2VDIwOjQ2OjA0WiIsImZpbGUiOiJtb2RlbHMvMjAyNi4wOS4yNi0wLnppcCIsImdhdGUiOnt9LCJtaW5pbXVtQnVpbGQiOjEsIm5vdGVzIjoiZDAgMy4xIHBjdCwgaGVsZCAxMSBvZiAxMSwgc3BlZWRzIDExIG9mIDExLCBmYWxzZSAwLCBwb29sZWQgZm9sZHMgNSBvZiA2LCBzZWVkIDExLCAyNDc5MjIgcGFyYW1zIiwic2NoZW1hIjoxLCJzaGEyNTYiOiJkZDE0MTM0NjQ3NzVhZjMxODFkNzY1MWQwM2RkNDVjNzFhOWVjYjZkYzQ1OTZlY2YxYjk2MmVkNTRmM2ZhNmJmIiwidmVyc2lvbiI6IjIwMjYuMDkuMjYtMCJ9"
 }
